@@ -2,11 +2,15 @@
   {
     "name": "ASC Logo",
     "description": "Standart Theme mit ASC-Logo im Hintergrund",
-    "file": "ASC_Logo.css"
+    "file": "ASC_Logo.css",
+    "version": "1.0",
+    "image": "screenshots/ASC_Logo.png"
   },
   {
     "name": "Kein Logo",
     "description": "Standart Theme ohne ASC-Logo",
-    "file": "kein_Logo.css"
+    "file": "kein_Logo.css",
+    "version": "1.0",
+    "image": "screenshots/kein_Logo.png"
   }
 ]
