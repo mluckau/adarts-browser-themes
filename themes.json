@@ -1,27 +1,12 @@
 [
   {
     "name": "Asc Logo",
-    "description": "",
+    "description": "Standart Theme mit ASC-Logo im Hintergrund",
     "file": "ASC_Logo.css"
   },
   {
-    "name": "Dark Mode (Clean)",
-    "description": "Ein schlichtes, dunkles Design für wenig Ablenkung.",
-    "file": "dark_mode.css"
-  },
-  {
-    "name": "High Contrast",
-    "description": "Maximaler Kontrast für bessere Lesbarkeit auf dem TV.",
-    "file": "high_contrast.css"
-  },
-  {
     "name": "Kein Logo",
-    "description": "",
+    "description": "Standart Theme ohne ASC-Logo",
     "file": "kein_Logo.css"
-  },
-  {
-    "name": "Neon Cyberpunk",
-    "description": "Futuristischer Look mit starken Kontrasten und Neonfarben.",
-    "file": "neon.css"
   }
 ]
