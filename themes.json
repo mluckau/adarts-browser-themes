@@ -1,8 +1,8 @@
 [
   {
     "name": "Asc Logo",
-    "description": "Standart Theme mit ASC-Logo im Hintergrund",
-    "file": "ASC Logo.css"
+    "description": "",
+    "file": "ASC_Logo.css"
   },
   {
     "name": "Dark Mode (Clean)",
@@ -16,8 +16,8 @@
   },
   {
     "name": "Kein Logo",
-    "description": "Standart Theme ohne ASC-Logo",
-    "file": "kein Logo.css"
+    "description": "",
+    "file": "kein_Logo.css"
   },
   {
     "name": "Neon Cyberpunk",
