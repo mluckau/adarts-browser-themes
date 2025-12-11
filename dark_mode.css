@@ -1,0 +1,21 @@
+/* Dark Mode Clean */
+body, .main-container {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+}
+
+.card {
+    background-color: #1e1e1e !important;
+    border-color: #333 !important;
+    color: #e0e0e0 !important;
+}
+
+/* Hide Footer elements if necessary */
+footer {
+    display: none !important;
+}
+
+/* Score styling */
+.score-value {
+    color: #ffffff !important;
+}

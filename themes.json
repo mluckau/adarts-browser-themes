@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Dark Mode (Clean)",
+    "description": "Ein schlichtes, dunkles Design für wenig Ablenkung.",
+    "file": "dark_mode.css"
+  },
+  {
+    "name": "Neon Cyberpunk",
+    "description": "Futuristischer Look mit starken Kontrasten und Neonfarben.",
+    "file": "neon.css"
+  },
+  {
+    "name": "High Contrast",
+    "description": "Maximaler Kontrast für bessere Lesbarkeit auf dem TV.",
+    "file": "high_contrast.css"
+  }
+]

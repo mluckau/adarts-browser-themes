@@ -1,0 +1,23 @@
+/* Neon Cyberpunk Theme */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+body {
+    background-color: #000000 !important;
+    font-family: 'Orbitron', sans-serif !important;
+}
+
+.score-value {
+    color: #00ff00 !important;
+    text-shadow: 0 0 10px #00ff00;
+}
+
+.player-name {
+    color: #ff00de !important;
+    text-shadow: 0 0 5px #ff00de;
+}
+
+.card {
+    background: rgba(0, 20, 40, 0.9) !important;
+    border: 1px solid #00ff00 !important;
+    box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
+}
