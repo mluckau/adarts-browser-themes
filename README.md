@@ -14,6 +14,17 @@ Um ein eigenes Theme beizusteuern, folge bitte diesen Schritten:
     *   Führe das Skript `python3 update_themes.py` aus. Dies fügt dein Theme automatisch zur `themes.json` hinzu.
     *   Öffne die `themes.json` und fülle das Feld `"description"` mit einer kurzen Beschreibung deines Themes aus.
 
+## 📩 Du hast keine Git-Kenntnisse? Kein Problem!
+
+Du kannst dein Theme auch ganz einfach über die **Issues**-Funktion einreichen:
+
+1.  Gehe auf den Reiter **Issues** und erstelle ein **Neues Issue** mit dem Titel "Neues Theme: [Name deines Themes]".
+2.  Hänge deine **.css Datei** an oder füge den Code direkt als Code-Block in die Beschreibung ein.
+3.  📸 **WICHTIG**: Füge unbedingt einen **Screenshot** hinzu, damit man sieht, wie dein Theme aussieht.
+4.  Schreibe kurz dazu, wer du bist (Autor) und was dein Theme besonders macht.
+
+Wir kümmern uns dann um den Rest und fügen es für dich hinzu!
+
 ## 📝 Pull Request (PR) Richtlinien
 
 Damit dein Theme schnell akzeptiert werden kann, achte bitte auf folgende Punkte in deinem Pull Request:
