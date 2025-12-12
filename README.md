@@ -48,13 +48,15 @@ Die `themes.json` steuert die Anzeige der Themes. Ein Eintrag sieht so aus:
   "description": "Dunkles Design mit roten Akzenten",
   "file": "mein_cooles_theme.css",
   "version": "1.0",
-  "image": "screenshots/mein_cooles_theme.png"
+  "image": "screenshots/mein_cooles_theme.png",
+  "author": "Dein Name"
 }
 ```
 
-*   `name`: Wird automatisch aus dem Dateinamen generiert.
+*   `name`: Wird automatisch aus dem Dateinamen generiert oder aus CSS-Kommentar gelesen.
 *   `file`: Der Name deiner CSS-Datei.
 *   `image`: Pfad zum Screenshot.
-*   `version`: Startet bei "1.0". Wenn du dein Theme später aktualisierst, erhöhe diese Nummer bitte.
+*   `version`: Startet bei "1.0" oder wird aus CSS-Kommentar gelesen. Wenn du dein Theme später aktualisierst, erhöhe diese Nummer bitte.
+*   `author`: Dein Name oder wird aus CSS-Kommentar gelesen.
 
 Vielen Dank für deinen Beitrag zur Community!
